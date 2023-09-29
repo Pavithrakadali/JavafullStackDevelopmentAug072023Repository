@@ -1,4 +1,5 @@
 
+
 package Inheritance;
 
 class Demo112
